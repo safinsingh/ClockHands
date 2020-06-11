@@ -1,2 +1,2 @@
 # ClockHands
-Ever wondered when the hour and minute hands of an analog clock overlap? I did.
+Calculates when the hours on a clock overlap
